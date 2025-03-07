@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "eventTitle": "AI Summit",
+    "fieldCategory": [
+      "Artificial Intelligence"
+    ],
+    "briefDescription": "Exploring the latest AI trends and breakthroughs.",
+    "knowMoreLink": "https://example.com/ai-summit",
+    "venue": "Tech Park, Hall A",
+    "eventDate": "2030-03-02",
+    "startTime": "04:20 AM",
+    "endTime": "04:20 AM"
+  },
+  {
+    "id": "2",
+    "eventTitle": "Blockchain Expo",
+    "fieldCategory": [
+      "Blockchain"
+    ],
+    "briefDescription": "Showcasing innovative blockchain solutions.",
+    "knowMoreLink": "https://example.com/blockchain-expo",
+    "venue": "Downtown Convention Center",
+    "eventDate": "2025-04-10",
+    "startTime": "01:15 AM",
+    "endTime": "01:00 AM"
+  },
+  {
+    "id": "3",
+    "eventTitle": "Web Dev Conference",
+    "fieldCategory": "Web Development",
+    "briefDescription": "Latest trends in front-end and back-end web tech.",
+    "knowMoreLink": "https://example.com/webdev-conference",
+    "venue": "Main Auditorium, City Hall",
+    "eventDate": "05/05/2025",
+    "startTime": "09:00 AM",
+    "endTime": "10:30 AM"
+  },
+  {
+    "id": "4",
+    "eventTitle": "IoT Innovations",
+    "fieldCategory": "IoT",
+    "briefDescription": "Connecting everything, everywhere.",
+    "knowMoreLink": "https://example.com/iot-innovations",
+    "venue": "Tech Hub Arena",
+    "eventDate": "06/11/2025",
+    "startTime": "01:00 PM",
+    "endTime": "02:30 PM"
+  },
+  {
+    "id": "5",
+    "eventTitle": "Data Science Workshop",
+    "fieldCategory": "Data Science",
+    "briefDescription": "Hands-on sessions with real-world datasets.",
+    "knowMoreLink": "https://example.com/data-science-workshop",
+    "venue": "Innovation Lab",
+    "eventDate": "07/15/2025",
+    "startTime": "10:00 AM",
+    "endTime": "11:45 AM"
+  },
+  {
+    "id": "6",
+    "eventTitle": "Cybersecurity Forum",
+    "fieldCategory": "Cybersecurity",
+    "briefDescription": "Latest tactics to combat cyber threats.",
+    "knowMoreLink": "https://example.com/cybersecurity-forum",
+    "venue": "Security HQ",
+    "eventDate": "08/20/2025",
+    "startTime": "09:30 AM",
+    "endTime": "11:00 AM"
+  },
+  {
+    "id": "7",
+    "eventTitle": "Machine Learning Meetup",
+    "fieldCategory": "Machine Learning",
+    "briefDescription": "Showcasing advanced ML algorithms.",
+    "knowMoreLink": "https://example.com/ml-meetup",
+    "venue": "Techies Co-working Space",
+    "eventDate": "09/01/2025",
+    "startTime": "02:00 PM",
+    "endTime": "04:00 PM"
+  },
+  {
+    "id": "8",
+    "eventTitle": "Robotics Expo",
+    "fieldCategory": "Robotics",
+    "briefDescription": "Robots of the future, today.",
+    "knowMoreLink": "https://example.com/robotics-expo",
+    "venue": "Robotics Lab, Hall 1",
+    "eventDate": "10/10/2025",
+    "startTime": "10:00 AM",
+    "endTime": "12:00 PM"
+  },
+  {
+    "id": "9",
+    "eventTitle": "DevOps Connect",
+    "fieldCategory": "DevOps",
+    "briefDescription": "Bridging development and operations seamlessly.",
+    "knowMoreLink": "https://example.com/devops-connect",
+    "venue": "Dev Center",
+    "eventDate": "11/11/2025",
+    "startTime": "03:00 PM",
+    "endTime": "05:00 PM"
+  },
+  {
+    "id": "10",
+    "eventTitle": "Mobile Dev Hackathon",
+    "fieldCategory": "Mobile Development",
+    "briefDescription": "Rapid app development challenge.",
+    "knowMoreLink": "https://example.com/mobile-dev-hack",
+    "venue": "Hackathon Arena",
+    "eventDate": "12/05/2025",
+    "startTime": "08:00 AM",
+    "endTime": "08:00 PM"
+  },
+  {
+    "id": "11",
+    "eventTitle": "fafadfafa",
+    "fieldCategory": [
+      "Cloud Computing"
+    ],
+    "briefDescription": "fadfadfa",
+    "venue": "afaf",
+    "eventDate": "2025-03-02",
+    "startTime": "11:55",
+    "endTime": "12:55"
+  }
+]
